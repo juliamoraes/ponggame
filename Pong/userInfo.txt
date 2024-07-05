@@ -1,0 +1,7 @@
+
+
+Name: jlia
+Age: 18
+Your filehandling.Score: 0
+Artificial Intelligence filehandling.Score: 5
+
